@@ -7,10 +7,10 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Дефект 1](https://github.com/KseniaShepherd/Credit-Card-Number-Validator/issues/1)
-* [Дефект 2](https://github.com/KseniaShepherd/Credit-Card-Number-Validator/issues/2)
-* [Дефект 3](https://github.com/KseniaShepherd/Credit-Card-Number-Validator/issues/3)
-* [Дефект 4](https://github.com/KseniaShepherd/Credit-Card-Number-Validator/issues/4)
+* [Дефект 1](https://github.com/KseniaShepherd/CCNumber-Validator/issues/1)
+* [Дефект 2](https://github.com/KseniaShepherd/CCNumber-Validator/issues/2)
+* [Дефект 3](https://github.com/KseniaShepherd/CCNumber-Validator/issues/3)
+* [Дефект 4](https://github.com/KseniaShepherd/CCNumber-Validator/issues/4)
 
 ## Описание процесса тестирования
 
